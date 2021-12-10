@@ -17,6 +17,7 @@ const crearProducto = (req, res) => {
             res.status(200).send({
                 message: "Registro realizado exitosamente .",
                 data: productSave
+                
             })
         }
     })
