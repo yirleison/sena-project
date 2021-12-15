@@ -1,0 +1,17 @@
+.btn-crear-producto {
+    flex-direction: row !important;
+    width: 100% !important;
+    margin-top: 40px !important;
+    margin-left: 15% !important;
+  }
+  
+  .btn-spaces{
+   margin-inline: 2px !important;
+  }
+
+  .formErrors {
+    /* bg-red-100 border-l-4 border-red-500 text-red-700 p-3 mb-2 */
+    background-color: red;
+    border: 2px;
+    border-color: red
+  }

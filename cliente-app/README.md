@@ -68,3 +68,46 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Librerias
+material
+https://v4.mui.com/getting-started/installation/
+
+stotybook
+
+Listado librerias para configurar un proyecto en react js
+
+libreria para hacer seguimiento de los componentes
+https://storybook.js.org/docs/react/get-started/install   npx -p @storybook/cli sb init
+
+Material-UI
+https://mui.com/getting-started/installation/
+
+Material Table
+https://blog.logrocket.com/material-table-react-tutorial-with-examples/
+
+Bustrap
+https://reactstrap.github.io/?path=/docs/components-button--button
+
+abrir modal
+https://www.digitalocean.com/community/tutorials/react-modal-component
+
+trabajar con flexbox
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Typical_Use_Cases_of_Flexbox
+
+validacion de formularios con formik
+https://formik.org/docs/tutorial
+
+estilos css con tailwindcc
+https://tailwindcss.com/docs/guides/create-react-app
+
+libreria para manejo de graficas y estadisticas
+https://recharts.org/en-US/
+
+notificationes
+https://www.geeksforgeeks.org/reactjs-toast-notification/
+
+
+Roboto
+npm install typeface-roboto
