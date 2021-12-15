@@ -35,6 +35,7 @@ const listarProductos = (req, res) => {
             })
         }
         else {
+            console.log(`Consulta de productos ---> ${listProductos}`);
             res.status(200).send({
                 data: listProductos
             })
